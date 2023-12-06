@@ -1,8 +1,8 @@
 const App = {
     data() {
         return {
-            counter: 0,
-            title: 'Счётчик'
+            placeholderString: 'Введите название заметки',
+            title: 'Список заметок'
         }
     }
 }
